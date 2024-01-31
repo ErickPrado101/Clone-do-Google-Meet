@@ -1,5 +1,3 @@
-Aqui está um exemplo de um README básico para o seu projeto de clone do Google Meet:
-
 ```markdown
 # Google Meet Clone
 

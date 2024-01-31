@@ -73,5 +73,3 @@ Sinta-se à vontade para contribuir com melhorias ou correções de bugs. Abra u
 
 Este projeto é licenciado sob a [MIT License](LICENSE).
 ```
-
-Lembre-se de substituir os espaços reservados no código pelos valores reais do seu projeto. Este README é apenas um ponto de partida e você pode personalizá-lo conforme necessário para o seu projeto específico.
